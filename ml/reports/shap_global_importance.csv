@@ -1,0 +1,11 @@
+raw_feature,mean_abs_shap
+Mental_Health_Score,0.3520075920552149
+Most_Used_Platform,0.04115537427687806
+Relationship_Status,0.0221549717789632
+Conflicts_Over_Social_Media,0.017705890619589246
+Sleep_Hours_Per_Night,0.009747965942353207
+Age,0.0066495689321740435
+Avg_Daily_Usage_Hours,0.005833616350041137
+Academic_Level,0.0005848992308998675
+Affects_Academic_Performance,0.00015268363127686572
+Gender,6.124563970749805e-05
